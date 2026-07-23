@@ -93,7 +93,7 @@ The design was simulated using **Xilinx Vivado Simulator**. The testbench execut
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/bsce24035/riscv-cfi-fsm-extension.git
    ```
 2. Open Xilinx Vivado and create an **RTL Project**.
 3. Add `rtl/module_cfi.sv` as a **Design Source** (Ensure file type is set to **SystemVerilog**).
